@@ -1,4 +1,5 @@
-Forked from git@github.com:OpenTSDB/asynchbase.git on 5/19/2019 19:40.
+o Forked from git@github.com:OpenTSDB/asynchbase.git on 5/19/2019 19:40.
 
-To build from scratch, just run "make". You can find the build artifacts
-(asynchbase-1.8.3-SNAPSHOT.jar) under the build/ directory.
+o To build from scratch, just run "make". You can find the build artifacts
+(asynchbase-1.8.3-SNAPSHOT.jar) under the build/ directory. Note that it
+needs to be renamed asynchbase-1.7.2.jar before OpenTSDB can use it.
